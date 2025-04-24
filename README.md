@@ -20,6 +20,8 @@ This API is built with Node.js and uses Express.js for routing. The database is 
 ## API Documentation
 API documentation is generated using swagger-jsdoc and can be accessed via Swagger UI.
 
+check Design Documents/api_documentation.md for more
+
 ## Logging
 The application uses Winston for logging. Logs are generated for:
 
